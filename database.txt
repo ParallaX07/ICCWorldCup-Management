@@ -1,0 +1,255 @@
+Hashmatullah Shahidi
+28
+Afghanistan
+Top order Batter
+Left hand bat
+Ikram Alikhil
+22
+Afghanistan
+Wicketkeeper Batter
+Left hand bat
+Azmatullah Omarzai
+23
+Afghanistan
+Allrounder
+Right hand bat
+Abdul Rahman
+21
+Afghanistan
+Bowler
+Right arm Fast medium
+Noor Ahmad
+18
+Afghanistan
+Bowler
+Left arm Wrist spin
+Josh Inglis
+28
+Australia
+Wicketkeeper Batter
+Right hand bat
+Alex Carey
+32
+Australia
+Wicketkeeper Batter
+Left hand bat
+Ashton Agar
+29
+Australia
+Bowler
+Slow Left arm Orthodox
+Adam Zampa
+31
+Australia
+Bowler
+Legbreak googly
+Sean Abbott
+31
+Australia
+Bowling Allrounder
+Right hand Batsman
+Mushfiqur Rahim
+36
+Bangladesh
+Wicketkeeper Batter
+Right hand bat
+Litton Das
+28
+Bangladesh
+Wicketkeeper Batter
+Right hand Batsman
+Mahmudullah
+37
+Bangladesh
+Allrounder
+Right hand bat
+Mustafizur Rahman
+28
+Bangladesh
+Bowler
+Left arm Fast medium
+Mehidy Hasan
+25
+Bangladesh
+Allrounder
+Right arm Batsman
+Saalim
+23
+Bangladesh
+Batsman
+Right hand bat
+Jos Buttler
+32
+England
+Wicketkeeper Batter
+Right hand bat
+Ben Stokes
+32
+England
+Allrounder
+Left hand bat
+Mark Wood
+25
+England
+Bowler
+Right arm Fast
+Adil Rashid
+35
+England
+Bowler
+Legbreak
+Moeen Ali
+35
+England
+Batting Allrounder
+Left hand bat
+Virat Kohli
+34
+India
+Top order Batter
+Right hand bat
+KL Rahul
+31
+India
+Wicketkeeper Batter
+Right hand bat
+Hardik Pandya
+29
+India
+Allrounder
+Right hand bat
+Jasprit Bumrah
+29
+India
+Bowler
+Right arm Fast
+Mohammed Siraj
+29
+India
+Bowler
+Right arm Fast
+Pieter Seelaar
+33
+Netherlands
+Top order Batter
+Left hand bat
+Scott Edwards
+24
+Netherlands
+Wicketkeeper Batter
+Right hand bat
+Ryan ten Doeschate
+40
+Netherlands
+Allrounder
+Right hand bat
+Fred Klaassen
+27
+Netherlands
+Bowler
+Left arm Fast medium
+Brandon Glover
+23
+Netherlands
+Bowler
+Right arm Fast medium
+Kane Williamson
+30
+New Zealand
+Top order Batter
+Right hand bat
+Tom Latham
+28
+New Zealand
+Wicketkeeper Batter
+Left hand bat
+Colin de Grandhomme
+34
+New Zealand
+Allrounder
+Right hand bat
+Trent Boult
+31
+New Zealand
+Bowler
+Left arm Fast medium
+Mitchell Santner
+29
+New Zealand
+Bowler
+Left arm Orthodox
+Babar Azam
+26
+Pakistan
+Top order Batter
+Right hand bat
+Mohammad Rizwan
+28
+Pakistan
+Wicketkeeper Batter
+Right hand bat
+Shadab Khan
+22
+Pakistan
+Allrounder
+Right hand bat
+Shaheen Afridi
+20
+Pakistan
+Bowler
+Left arm Fast medium
+Mohammad Hasnain
+20
+Pakistan
+Bowler
+Right arm Fast
+Quinton de Kock
+28
+South Africa
+Top order Batter
+Left hand bat
+Heinrich Klaasen
+29
+South Africa
+Wicketkeeper Batter
+Right hand bat
+George Linde
+29
+South Africa
+Allrounder
+Left hand bat
+Kagiso Rabada
+25
+South Africa
+Bowler
+Right arm Fast
+David Miller
+34
+South Africa
+Middle order Batter
+Left hand bat
+Dimuth Karunaratne
+32
+Sri Lanka
+Top order Batter
+Left hand bat
+Kusal Perera
+30
+Sri Lanka
+Wicketkeeper Batter
+Left hand bat
+Dasun Shanaka
+29
+Sri Lanka
+Allrounder
+Right hand bat
+Dushmantha Chameera
+29
+Sri Lanka
+Bowler
+Right arm Fast medium
+Lakshan Sandakan
+30
+Sri Lanka
+Bowler
+Left arm Wrist spin
